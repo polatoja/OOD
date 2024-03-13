@@ -1,0 +1,17 @@
+C:\Users\majat\OneDrive\Pulpit\UNI\sem4\airplanes\airplanes\bin\Debug\net7.0\airplanes.exe
+C:\Users\majat\OneDrive\Pulpit\UNI\sem4\airplanes\airplanes\bin\Debug\net7.0\airplanes.deps.json
+C:\Users\majat\OneDrive\Pulpit\UNI\sem4\airplanes\airplanes\bin\Debug\net7.0\airplanes.runtimeconfig.json
+C:\Users\majat\OneDrive\Pulpit\UNI\sem4\airplanes\airplanes\bin\Debug\net7.0\airplanes.dll
+C:\Users\majat\OneDrive\Pulpit\UNI\sem4\airplanes\airplanes\bin\Debug\net7.0\airplanes.pdb
+C:\Users\majat\OneDrive\Pulpit\UNI\sem4\airplanes\airplanes\obj\Debug\net7.0\airplanes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majat\OneDrive\Pulpit\UNI\sem4\airplanes\airplanes\obj\Debug\net7.0\airplanes.AssemblyInfoInputs.cache
+C:\Users\majat\OneDrive\Pulpit\UNI\sem4\airplanes\airplanes\obj\Debug\net7.0\airplanes.AssemblyInfo.cs
+C:\Users\majat\OneDrive\Pulpit\UNI\sem4\airplanes\airplanes\obj\Debug\net7.0\airplanes.csproj.CoreCompileInputs.cache
+C:\Users\majat\OneDrive\Pulpit\UNI\sem4\airplanes\airplanes\obj\Debug\net7.0\airplanes.dll
+C:\Users\majat\OneDrive\Pulpit\UNI\sem4\airplanes\airplanes\obj\Debug\net7.0\refint\airplanes.dll
+C:\Users\majat\OneDrive\Pulpit\UNI\sem4\airplanes\airplanes\obj\Debug\net7.0\airplanes.pdb
+C:\Users\majat\OneDrive\Pulpit\UNI\sem4\airplanes\airplanes\obj\Debug\net7.0\airplanes.genruntimeconfig.cache
+C:\Users\majat\OneDrive\Pulpit\UNI\sem4\airplanes\airplanes\obj\Debug\net7.0\ref\airplanes.dll
+C:\Users\majat\OneDrive\Pulpit\UNI\sem4\airplanes\airplanes\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\majat\OneDrive\Pulpit\UNI\sem4\airplanes\airplanes\obj\Debug\net7.0\airplanes.csproj.AssemblyReference.cache
+C:\Users\majat\OneDrive\Pulpit\UNI\sem4\airplanes\airplanes\obj\Debug\net7.0\airplanes.csproj.CopyComplete
